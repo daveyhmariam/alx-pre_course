@@ -1,1 +1,1 @@
-git directory
+git directory and commands
